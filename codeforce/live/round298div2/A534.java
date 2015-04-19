@@ -1,7 +1,8 @@
 import java.util.StringTokenizer;
 import java.io.*;
 import java.util.ArrayList;
-public class ProblemA {
+//solution was ACCEPTED during live competition
+public class A534 {
 	public static void main(String[] args) {
 		try {
 			FReader reader = new FReader();

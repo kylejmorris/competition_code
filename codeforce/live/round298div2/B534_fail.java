@@ -3,8 +3,8 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-
-public class ProblemB {
+//solution was REJECTED during live competition ;_;
+public class B534 {
 	public static void main(String[] args) {
 		try {
 			FReader r = new FReader();
