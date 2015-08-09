@@ -10,3 +10,14 @@
 
 using namespace std;
 
+int main() {
+    int n, x;
+    scanf("%d %d", &n, &x);
+    int start = 1;
+    int l1, r1, l2, r2;
+    int mins = 0;
+    scanf("%d %d", &l1, &r1);
+    
+    
+    return 0;
+}

@@ -5,8 +5,12 @@
 #include<vector>
 #include<math.h>
 #include<ctype.h>
-#include<iomanip>
-#include<iostream>
 
 using namespace std;
 
+int main() {
+    char line[21];
+    scanf("%s", line);
+    int count = (int)strlen(line);
+    printf("%d", 26*(count+1)-count);
+}

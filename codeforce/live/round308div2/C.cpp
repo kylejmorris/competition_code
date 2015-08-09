@@ -5,8 +5,10 @@
 #include<vector>
 #include<math.h>
 #include<ctype.h>
-#include<iomanip>
-#include<iostream>
 
 using namespace std;
 
+int main() {
+      
+    return 0;
+}
