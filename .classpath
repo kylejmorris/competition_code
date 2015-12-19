@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="codeforce/live/round298div2"/>
+	<classpathentry kind="src" path="codeforce/live/round299div2"/>
+    <classpathentry kind="src" path="codeforce/live/round300div2"/>
+	<classpathentry kind="src" path="codeforce/practice"/>
+	<classpathentry excluding="adinfinitum11/" kind="src" path="hackerrank/live"/>
+	<classpathentry kind="src" path="hackerrank/live/101hackapril15"/>
+    <classpathentry kind="src" path="hackerrank/live/adinfinitum11"/>
+	<classpathentry kind="src" path="hackerrank/practice"/>
+	<classpathentry kind="src" path="topcoder/live/srm650div2/hacked"/>
+	<classpathentry kind="src" path="topcoder/practice/srm144div2/accepted"/>
+	<classpathentry kind="src" path="topcoder/practice/srm145div2/accepted"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
